@@ -1,0 +1,9 @@
+/*Este programa irá receber 2 valores de salário e os exibir caso a
+média dos salários for maior que R$2000,00.*/
+let salario1=2000
+let salario2=2500
+const resultado= (salario1+salario2)/2
+
+if (salario1 + salario2/2 >2000){
+    console.log(`R$${resultado},00`)
+}

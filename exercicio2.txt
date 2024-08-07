@@ -1,0 +1,11 @@
+/*Desenvolva um programa em js que 
+Receba 2 números e os exiba em ordem crescente.*/
+let num1=10
+let num2=55
+
+if (num1 > num2) {
+    console.log(`  ${num1}, ${num2}` ) 
+ } else {
+    (num1 < num2)
+    console.log (` ${num2}, ${num1} `)
+ }

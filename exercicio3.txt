@@ -1,0 +1,7 @@
+/*Receba 1 número e exiba somente em caso o número for menor que 20.*/
+let numero=30
+
+if (numero >20){
+    console.log(`${numero}`)
+}
+    

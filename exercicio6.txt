@@ -1,0 +1,15 @@
+/*Desenvolva um programa JavaScript para uma empresa calcular a quantidade de horas
+extras semanais que um funcionário tem.
+Implemente uma função para exibir um alerta e o número de horas excedidas 
+quando as horas semanais excedem o limite de 40 horas.*/
+
+let horaextra=41
+const excede= horaextra - 40
+
+
+if (horaextra <40) {
+    console.log(`Você trabalhou ${horaextra} horas extras` ) 
+ } else {
+    (horaextra > 40)
+    console.log (`Você trabalhou ${horaextra} horas extras, ${excede} a mais do limite `)
+ }

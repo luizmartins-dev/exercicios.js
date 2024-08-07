@@ -1,0 +1,14 @@
+1) Desenvolva um programa em js que:
+
+a) Receba 2 números e os exiba em ordem crescente.
+
+b) Receba 1 número e exiba somente em caso o número for menor que 20.
+
+c) Receba 2 números e exbia os 2 números inseridos se a soma dos dois
+números for menor que 20.
+
+d) Este programa irá receber 2 valores de salário e os exibir caso a
+média dos salários for maior que R$2000,00.
+
+e) Crie um programa para identificar pela idade de uma pessoa se o voto
+é obrigatório ou opcional.

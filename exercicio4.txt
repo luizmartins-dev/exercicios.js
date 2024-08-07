@@ -1,0 +1,9 @@
+/*Receba 2 números e exbia os 2 números inseridos se a soma dos dois
+números for menor que 20.*/
+let a=10
+let b=10
+const resultado= a+b
+
+if (a + b <20){
+    console.log(`${resultado}`)
+}
